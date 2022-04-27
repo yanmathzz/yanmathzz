@@ -1,4 +1,6 @@
 ## Olá eu sou o Yan Matheus !
+<img width="100%" height="320px" src="https://data.whicdn.com/images/316439595/original.gif"/>
+<div style="display: inline-block;">
 <div align="center">
   <a href="https://github.com/yanmathzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmathzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
