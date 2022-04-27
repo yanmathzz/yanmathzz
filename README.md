@@ -1,5 +1,5 @@
 ## Hello i'm Yan
-<img width="100%" height="320px" src="https://data.whicdn.com/images/316439595/original.gif"/>
+<img width="100%" height="280px" src="https://data.whicdn.com/images/316439595/original.gif"/>
 <div style="display: inline-block;">
 <div align="center">
   <a href="https://github.com/yanmathzz">
