@@ -1,10 +1,9 @@
 ## Hello i'm Yan
-<img width="100%" height="270px" src="https://data.whicdn.com/images/316439595/original.gif"/>
-<div style="display: inline-block;">
+<img width="100%" height="290px" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif"/> <div style="display: inline-block;">
 <div align="center">
   <a href="https://github.com/yanmathzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmathzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmathzz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmathzz&layout=compact&langs_count=7&theme=tokyonight"/>  
 </div>
   
 ## Experiences
