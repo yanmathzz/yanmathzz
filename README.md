@@ -1,6 +1,6 @@
 ## Hi i'm Yan
 
-<img align="right" img src="https://i.picasion.com/pic92/b8a5d0f030f9807f267764a97a71aa43.gif" width="270"/>
+<img align="right" img src="https://i.picasion.com/pic92/b8a5d0f030f9807f267764a97a71aa43.gif" width="170"/>
 
 <br><br>
 
