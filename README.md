@@ -1,21 +1,30 @@
-## Hello i'm Yan
-<img width="100%" height="290px" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif"/> <div style="display: inline-block;">
-<div align="center">
+## Hi i'm Yan
+
+<img align="right" src="blob:https://web.whatsapp.com/c1188b28-20f1-4b49-b7d7-f5251bd8cbba" width="370"/>
+
+<br><br>
+
+- 🦝 Junior Back-end and Front-end developer
+
+- 🧑‍💻 Computer Engineering student
+
+<br><br> 
+
+## 📈 &nbsp;GitHub Analytics
   <a href="https://github.com/yanmathzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmathzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmathzz&layout=compact&langs_count=7&theme=tokyonight"/>  
 </div>
   
-## Experiences
-<div style="display: inline_block"><br>
-  <img align="center" alt="Yan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Yan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
-  
- ## How to find me
+## 🛠 &nbsp;Experiences
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+ ## 👨🏽‍💻 &nbsp;How to find me
 <div> 
   <a href = "mailto:ymatheus706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yan-matheus-361b6b235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
