@@ -1,6 +1,6 @@
 ## Hi i'm Yan
 
-<img align="right" src="blob:https://web.whatsapp.com/c1188b28-20f1-4b49-b7d7-f5251bd8cbba" width="370"/>
+<img align="right" src="file:///C:/Users/ymath/Downloads/download20220805183127.png" width="370"/>
 
 <br><br>
 
