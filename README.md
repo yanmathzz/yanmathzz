@@ -1,6 +1,6 @@
 ## Hi i'm Yan
 
-<img align="right" src="<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/b8a5d0f030f9807f267764a97a71aa43.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>" width="370"/>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/b8a5d0f030f9807f267764a97a71aa43.gif">
 
 <br><br>
 
