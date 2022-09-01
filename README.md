@@ -1,6 +1,6 @@
 ## Hi i'm Yan
 
-<img align="right" img src="https://i.picasion.com/pic92/b8a5d0f030f9807f267764a97a71aa43.gif" width="210"/>
+<img align="right" img src="https://cdn.discordapp.com/attachments/982834802807951430/1014988046866858034/image1.jpg" width="210"/>
 
 <br><br>
 
