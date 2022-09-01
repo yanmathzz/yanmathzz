@@ -1,7 +1,6 @@
 ## Hi i'm Yan
 
-<img align="right" img src="![picasion com_b8a5d0f030f9807f267764a97a71aa43](https://user-images.githubusercontent.com/104533643/188004830-f895527e-184d-4715-b99d-f46415c9cb0f.gif)
-" width="210"/>
+<img align="right" img src="https://i.picasion.com/pic92/e86cb7c4d2cfa52186bbfb765253555e.gif" width="210"/>
 
 <br><br>
 
