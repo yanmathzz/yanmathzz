@@ -1,6 +1,7 @@
 ## Hi i'm Yan
 
-<img align="right" img src="https://cdn.discordapp.com/attachments/982834802807951430/1014988046866858034/image1.jpg" width="210"/>
+<img align="right" img src="![picasion com_b8a5d0f030f9807f267764a97a71aa43](https://user-images.githubusercontent.com/104533643/188004830-f895527e-184d-4715-b99d-f46415c9cb0f.gif)
+" width="210"/>
 
 <br><br>
 
@@ -19,7 +20,6 @@
 
 ## 🛠 &nbsp;Experiences
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
