@@ -3,9 +3,9 @@
 
 <br><br>
 
-- 🦝 Junior Front-end and Back-end developer
+- 🦝 Front-end and Back-end developer
 
-- 🧑‍💻 Computer Engineering student
+- 🧑‍💻 Computer Engineering 
 
 <br><br> 
 
