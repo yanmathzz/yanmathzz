@@ -9,13 +9,6 @@
 
 <br><br> 
 
-## 📈 &nbsp;GitHub Analytics
-<div align="center">
-  <a href="https://github.com/yanmathzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanmathzz&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmathzz&layout=compact&langs_count=7&theme=ocean_dark"/>
-</div>
-
 ## 🛠 &nbsp;Experiences
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
