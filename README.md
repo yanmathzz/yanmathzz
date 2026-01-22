@@ -11,8 +11,9 @@ My engineering background provides me with a systematic approach to problem-solv
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yanmathzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yanmathzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
+  <!-- Tokyo Night Theme -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yanmathzz&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&border_color=414868" alt="Yan's GitHub stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmathzz&layout=compact&theme=tokyonight&hide_border=false&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&border_color=414868" alt="Top Languages" />
 </div>
 
 <br>
