@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="left">I hold a bachelor's degree in Computer Engineering and work in the development of modern web applications, focusing on **front-end (React, TypeScript)** and **back-end (Node.js)**, in addition to experience in **process automation (RPA)**, **data analysis**, and **technical support**. I always strive to integrate technology, efficiency, and innovation to create solutions that positively impact workflows and user experience.</p>
+<p align="left">I hold a bachelor's degree in Computer Engineering and work in the development of modern web applications, focusing on front-end (React, TypeScript) and back-end (Node.js), in addition to experience in process automation (RPA), data analysis, and technical support. I always strive to integrate technology, efficiency, and innovation to create solutions that positively impact workflows and user experience.</p>
 
 <br>
 
