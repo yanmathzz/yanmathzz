@@ -2,7 +2,9 @@
 
 <br>
 
-<p align="left">As a Computer Engineering graduate and Full Stack Developer, I architect and develop modern web applications using React/TypeScript for front-end and Node.js for back-end. My expertise extends to process automation (RPA), data analysis with Python, and technical support, allowing me to create comprehensive solutions that streamline operations, automate repetitive tasks, and deliver exceptional user experiences through strategic technology implementation.</p>
+Hello! I'm Yan Matheus, a **Computer Engineering Bachelor** and **Full Stack Developer** dedicated to crafting modern web applications with **React & TypeScript** and **Node.js**. Graduated from CESUPA with a focus on digital optimization, I combine technical education with practical experience in **process automation with Python**, **data analysis**, and **IT infrastructure**.
+
+My engineering background provides me with a systematic approach to problem-solving, whether developing scalable applications, automating workflows, or optimizing databases. Always eager to learn and collaborate, I'm passionate about creating technology that makes a tangible impact on how businesses operate and users engage with digital solutions.
 
 <br>
 
