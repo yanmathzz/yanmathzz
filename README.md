@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="left">I hold a bachelor's degree in Computer Engineering and work in the development of modern web applications, focusing on front-end (React, TypeScript) and back-end (Node.js), in addition to experience in process automation (RPA), data analysis, and technical support. I always strive to integrate technology, efficiency, and innovation to create solutions that positively impact workflows and user experience.</p>
+<p align="left">As a Computer Engineering graduate and Full Stack Developer, I architect and develop modern web applications using React/TypeScript for front-end and Node.js for back-end. My expertise extends to process automation (RPA), data analysis with Python, and technical support, allowing me to create comprehensive solutions that streamline operations, automate repetitive tasks, and deliver exceptional user experiences through strategic technology implementation.</p>
 
 <br>
 
