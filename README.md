@@ -26,19 +26,6 @@ I'm a **Computer Engineering graduate** (CESUPA) and **Full Stack Developer** fo
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [Portfolio](https://github.com/yanmathzz/portfolio) | Personal portfolio with polished presentation and project curation | TypeScript |
-| [Inkpad](https://github.com/yanmathzz/inkpad) | A focused app idea with room for product-minded iteration | TypeScript / Web |
-| [Sistema de Monitoramento](https://github.com/yanmathzz/Sistema_de_Monitoramento) | Monitoring-oriented project with practical automation potential | Python |
-| [LinkedIn Analyzer](https://github.com/yanmathzz/LinkedIn_Analyzer) | Data extraction and analysis workflow for career/profile insights | Python |
-
-> If one of these projects helped you or gave you an idea, a star is always appreciated.
-
----
-
 ### 🛠️ Tech Stack
 
 **Frontend**
