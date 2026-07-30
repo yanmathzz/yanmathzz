@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=180&section=header&text=Yan%20Matheus&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Computer%20Engineer&descAlignY=56&descSize=16" alt="" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yan+Matheus+%F0%9F%91%8B;Full+Stack+Developer;Computer+Engineer;Web+%C2%B7+Desktop+%C2%B7+Mobile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+web%2C+desktop+and+mobile+apps;TypeScript+%C2%B7+React+%C2%B7+Node.js;From+architecture+to+deployment" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -65,28 +65,6 @@ I'm a **Computer Engineering graduate** (CESUPA) and **Full Stack Developer** wh
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2" alt="" />
 
-### 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yanmathzz/kairo">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yanmathzz&repo=kairo&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Kairo" />
-  </a>
-  <a href="https://github.com/yanmathzz/inkpad">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yanmathzz&repo=inkpad&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Inkpad" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/yanmathzz/tep-token-vista">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yanmathzz&repo=tep-token-vista&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="TEP Token Vista" />
-  </a>
-  <a href="https://github.com/yanmathzz/Sistema_de_Monitoramento">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yanmathzz&repo=Sistema_de_Monitoramento&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Sistema de Monitoramento" />
-  </a>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2" alt="" />
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -96,10 +74,6 @@ I'm a **Computer Engineering graduate** (CESUPA) and **Full Stack Developer** wh
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=yanmathzz&theme=tokyonight&hide_border=true&background=1a1b26&stroke=414868&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yanmathzz&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=7aa2f7" alt="Contribution activity graph" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2" alt="" />
