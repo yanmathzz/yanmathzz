@@ -76,6 +76,13 @@ I'm a **Computer Engineering graduate** (CESUPA) and **Full Stack Developer** wh
   <img src="https://streak-stats.demolab.com/?user=yanmathzz&theme=tokyonight&hide_border=true&background=1a1b26&stroke=414868&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
 </div>
 
+<!-- grafico de contribuicoes: dados reais da API, quadrado a quadrado.
+     Regerado todo dia por .github/workflows/update-contributions.yml -->
+
+<div align="center">
+  <img width="98%" src="./contributions.svg" alt="Contribution graph — auto-refreshed daily" />
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2" alt="" />
 
 ### 🏆 GitHub Trophies
