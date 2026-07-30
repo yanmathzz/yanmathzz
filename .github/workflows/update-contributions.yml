@@ -1,6 +1,12 @@
 name: update contributions graph
 
 # Regenera contributions.svg todo dia, para o grafico do README nao envelhecer.
+#
+# O grafico conta commits de TODOS os repositorios acessiveis, inclusive os
+# privados. Isso exige um PAT com escopo `repo` guardado no secret PROFILE_TOKEN
+# — o GITHUB_TOKEN padrao do workflow so enxerga este repositorio e produziria um
+# grafico quase vazio. Sem o secret o job apenas avisa e encerra, em vez de
+# substituir um grafico correto por um incompleto.
 
 on:
   schedule:
@@ -13,23 +19,34 @@ permissions:
 jobs:
   contributions:
     runs-on: ubuntu-latest
+    env:
+      # secrets nao e confiavel direto num `if` de step; viramos booleano aqui
+      HAS_TOKEN: ${{ secrets.PROFILE_TOKEN != '' }}
     steps:
+      - name: Avisar quando falta o PROFILE_TOKEN
+        if: env.HAS_TOKEN != 'true'
+        run: |
+          echo "::warning::PROFILE_TOKEN nao configurado — grafico nao atualizado."
+          echo "Crie um PAT com escopo 'repo' e salve em Settings > Secrets > Actions como PROFILE_TOKEN."
+
       - uses: actions/checkout@v4
+        if: env.HAS_TOKEN == 'true'
 
       - uses: actions/setup-python@v5
+        if: env.HAS_TOKEN == 'true'
         with:
           python-version: "3.12"
 
       - name: Gerar contributions.svg
+        id: gen
+        if: env.HAS_TOKEN == 'true'
         env:
-          # PROFILE_TOKEN e um PAT opcional (escopos read:user + repo) para
-          # incluir contribuicoes de repositorios privados. Sem ele, o grafico
-          # mostra apenas o que e publico.
-          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
           PROFILE_LOGIN: ${{ github.repository_owner }}
         run: python scripts/make_contrib_svg.py
 
       - name: Commitar se mudou
+        if: env.HAS_TOKEN == 'true'
         run: |
           if git diff --quiet -- contributions.svg; then
             echo "sem mudanca no grafico, nada a commitar"
@@ -38,5 +55,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add contributions.svg
-          git commit -m "chore: atualiza grafico de contribuicoes"
+          git commit -m "chore: atualiza grafico de contribuicoes (${{ steps.gen.outputs.total }} commits)"
           git push
