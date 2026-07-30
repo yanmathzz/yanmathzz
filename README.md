@@ -1,8 +1,13 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=180&section=header&text=Yan%20Matheus&fontSize=48&fontColor=c0caf5&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%C2%B7%20Computer%20Engineer&descAlignY=56&descSize=16" alt="" />
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yan+Matheus+%F0%9F%91%8B;Full+Stack+Developer;Computer+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yan+Matheus+%F0%9F%91%8B;Full+Stack+Developer;Computer+Engineer;Web+%C2%B7+Desktop+%C2%B7+Mobile" alt="Typing SVG" />
 </h1>
 
 <p align="center">
+  <a href="https://portfolio-yanmatheus.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/yan-matheus-361b6b235">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -12,62 +17,103 @@
   <img src="https://komarev.com/ghpvc/?username=yanmathzz&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2" alt="" />
 
 ### 👨‍💻 About Me
 
-I'm a **Computer Engineering graduate** (CESUPA) and **Full Stack Developer** focused on building modern, scalable web applications. I bring a systematic, engineering-driven approach to software — from architecture decisions to deployment.
+I'm a **Computer Engineering graduate** (CESUPA) and **Full Stack Developer** who builds applications end to end — from architecture decisions to deployment. I bring a systematic, engineering-driven approach to software.
 
-- 🔭 Working with **React**, **TypeScript** and **Node.js** to craft quality web experiences
+- 🔭 Building **web, desktop and mobile** applications with **TypeScript**, **React** and **Node.js**
+- 🧾 Integrating **Brazilian tax APIs** (SEFAZ — NF-e, CT-e, MDF-e) into production systems
 - 🐍 Automating workflows and extracting insights with **Python**
-- 🗄️ Experienced with **database optimization** and **IT infrastructure**
+- 🏆 **3rd place at Amazon Hacking 2025** as Lead Developer — backed by Vale, Accenture and Wipro
 - 📐 My engineering background shapes how I think about scalability, maintainability, and impact
 - 🤝 Open to collaboration and always eager to learn
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2" alt="" />
 
 ### 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,docker,electron&theme=dark" alt="Core stack" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=js,python,tailwind,prisma,git,linux&theme=dark" alt="Also working with" />
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table align="center">
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>React · TypeScript · Tailwind CSS · Next.js</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>Node.js · Python · REST APIs · SEFAZ integrations</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data</b></td>
+    <td>PostgreSQL · Prisma · SQL</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Desktop &amp; Mobile</b></td>
+    <td>Electron · React Native · Expo · Tauri</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infra</b></td>
+    <td>Docker · Git · Linux · CI/CD</td>
+  </tr>
+</table>
 
-**Backend & Scripting**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2" alt="" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🚀 Featured Projects
 
-**Database & Infrastructure**
+<div align="center">
+  <a href="https://github.com/yanmathzz/kairo">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yanmathzz&repo=kairo&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Kairo" />
+  </a>
+  <a href="https://github.com/yanmathzz/inkpad">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yanmathzz&repo=inkpad&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Inkpad" />
+  </a>
+</div>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <a href="https://github.com/yanmathzz/tep-token-vista">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yanmathzz&repo=tep-token-vista&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="TEP Token Vista" />
+  </a>
+  <a href="https://github.com/yanmathzz/Sistema_de_Monitoramento">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yanmathzz&repo=Sistema_de_Monitoramento&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Sistema de Monitoramento" />
+  </a>
+</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2" alt="" />
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yanmathzz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Yan's GitHub stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanmathzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yanmathzz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="Yan's GitHub stats" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yanmathzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanmathzz&theme=tokyonight&hide_border=true&background=1a1b26&stroke=414868&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yanmathzz&theme=tokyonight&hide_border=true&background=1a1b26&stroke=414868&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
 </div>
 
----
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yanmathzz&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=7aa2f7" alt="Contribution activity graph" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2" alt="" />
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yanmathzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=yanmathzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:7aa2f7,100:1a1b26&height=2" alt="" />
 
 <p align="center">
   <i>"Engineering is not just about solving problems — it's about solving the right problems, well."</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b26&height=120&section=footer" alt="" />
