@@ -75,11 +75,6 @@ I'm a **Computer Engineering graduate** (CESUPA) and **Full-Stack Developer** wh
   <img width="98%" src="./contributions.svg" alt="Contribution graph over the last year, refreshed daily" />
 </div>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yanmathzz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" alt="Most used languages" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yanmathzz&show_icons=true&hide=commits&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub stats" />
-</div>
-
 <p align="center">
   <sub>The contribution graph counts commits across every repository I work in, including private ones.</sub>
 </p>
