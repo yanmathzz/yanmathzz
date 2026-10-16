@@ -1,3 +1,6 @@
+__pycache__/
+*.pyc
+
 # --- Segredos e dados sensíveis: nunca versionar ---
 .env
 .env.*
